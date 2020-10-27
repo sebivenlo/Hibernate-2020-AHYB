@@ -12,3 +12,6 @@ For this project to be completed you need the following prerequisites:
 REQUIRED setup steps:
 1.
 2.
+
+
+Assignments:
